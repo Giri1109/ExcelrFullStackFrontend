@@ -1,0 +1,27 @@
+/* RGB red green blue 0-255 */
+/*RGBA A/transparency*/
+#first
+{
+    color: rgba(255, 0, 0, 1);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#second
+{
+    color: rgba(255, 0, 0, 0.75);
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+#third
+{
+    color: rgba(255, 0, 0, .25);
+    background-color: rgba(0, 0, 0, 0.75);
+}
+#fourth
+{
+    color: rgba(55, 13, 122, 0.646);
+}
+body
+{
+background-color: rgb(151, 202, 227);
+}

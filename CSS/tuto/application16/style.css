@@ -1,0 +1,30 @@
+.links
+{
+    margin: 3rem;
+}
+
+a{
+    background: #689f3f;
+    text-decoration: none;
+    padding: 1.2rem 1.5rem;
+    color: rgb(88, 28, 123);
+    text-transform: uppercase;
+    margin: 0 20px;
+    /* border: 1px;
+    border-color: black;
+    border-style: solid; */
+}
+
+#one
+{
+   border: 0.2rem solid #222;
+  
+}
+#two
+{
+    border: 0.2rem solid #222;
+    outline: 0.2rem solid red;
+    outline-offset: -7px;
+    outline-width: 0.2rem;
+    outline-style:groove;
+}

@@ -1,0 +1,19 @@
+
+.hero
+{
+    background:  rgb(243, 133, 24);
+    height: 50vh;
+    width: 50vw;
+}
+.about
+{
+    background: blue;
+    height: 43vh;
+    width: 50vw;
+}
+.inline
+{
+    width: 100vh;
+    height: 100vh;
+    background-color: plum;
+}

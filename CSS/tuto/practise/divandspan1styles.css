@@ -1,0 +1,20 @@
+.green
+{
+    color: green;
+}
+.red
+{
+    color: red;
+    background-color: black;
+}
+
+.span
+{
+text-transform: uppercase;
+}
+
+.text
+{
+    color: palevioletred;
+    background-color: azure;
+}

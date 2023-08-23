@@ -1,0 +1,19 @@
+/* color propertirs*/
+
+#first
+{
+    color: white;
+    background-color: black;
+}
+
+#second
+{
+    color: yellow;
+    background-color: darkslateblue;
+}
+body
+{
+    background-image: url(./baseball-7985433_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

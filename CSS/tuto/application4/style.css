@@ -1,0 +1,14 @@
+/* PIXELS - absolute value, its nothing but a dot on the screen */
+/* font-size - size of the font */
+/* width- width of an element */
+/* height- height of an element */
+
+h1
+{
+font-size: 60px;
+background-color: blueviolet;
+color: azure;
+width: 1000px;
+height: 200px;
+
+}

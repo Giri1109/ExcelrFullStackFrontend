@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+}
+.navbar
+{
+    background-color: rgba(5, 45, 245, 0.957);
+    height: 4rem;
+    color: white;
+    font-size: 3rem;
+    font-family: helvetica;
+}
+.banner
+{
+background-color:rgba(141, 141, 197, 0.628);
+min-height: 5vh;
+max-height: 25vh;
+overflow: hidden;
+overflow:scroll;
+}
+
+.example
+{
+    background-color:rgba(62, 111, 190, 0.628);
+    min-width: 2vw;
+    max-width: 10vw;
+    min-height:40vh;
+    max-height:60vh;;
+    overflow: hidden;
+    overflow: scroll;
+}

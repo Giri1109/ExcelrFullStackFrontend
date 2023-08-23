@@ -1,0 +1,37 @@
+.one
+{
+    font-weight: bold;
+}
+.two
+{
+    font-weight:lighter;
+    text-align: justify;
+    text-indent: 6rem;
+}
+.main-heading
+{
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+}
+.sub-heading
+{
+    font-size: x-large;
+    font-style: oblique;
+}
+a
+{
+    font-size: xxx-large;
+    text-decoration: none;
+}
+
+body
+{
+    line-height: 1.5; 
+    text-transform: uppercase;/* every word  capital */
+    text-decoration: overline;/* line on every word */
+    word-spacing: 10px; 
+    text-transform: capitalize;   /* every word first letteer capital */
+    
+
+}

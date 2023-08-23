@@ -1,0 +1,18 @@
+.one
+{
+    font-weight: bold;
+}
+.two
+{
+    font-weight:lighter;
+}
+.main-heading
+{
+    font-size: xx-large;
+    font-style: italic;
+}
+.sub-heading
+{
+    font-size: x-large;
+    font-style: oblique;
+}
